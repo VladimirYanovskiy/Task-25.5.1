@@ -15,6 +15,7 @@
   - /test_show_pet_friends.py
 - В тестах используются элементы класса WebDriverWait.
   - /
+  - /test_show_my_pets.py
 
 
 ЗАДАНИЕ 25.5.1 (HW-04)
