@@ -14,7 +14,7 @@
 - В тестах используется настройка implicitly-wait веб-драйвера:
   - /test_show_pet_friends.py
 - В тестах используются элементы класса WebDriverWait:
-  - /
+  - /test_no_duplicat_pets.py
   - /test_show_my_pets.py
 
 
